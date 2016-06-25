@@ -4,7 +4,8 @@ This repository has been created for the efficient semantic analysis of hastags 
 
 A lot of parameters are being currently tested which will later be uploaded here very soon.
 
-Procedure:
+Procedure to handling hashtags along with text:
+
 1. Run the hashtag remover python file.
  
 2. It will process the tweet_only.csv file and create the separated files.
