@@ -16,4 +16,8 @@ Procedure to handling hashtags along with text:
 
 5. Run the POS_hashtag_handler to gain knowledge of the parts of speech of the test data.
 
-6. More to come.
+6. RUn the POS_stopwords_removal.py file to get the chunked and chinked file.
+
+7. This file has all stopwords removed
+
+8. More to come.
